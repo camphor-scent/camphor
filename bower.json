@@ -1,0 +1,27 @@
+{
+  "name": "camphor-scent",
+  "version": "1.0.0",
+  "authors": [
+    "Camphor Scent"
+  ],
+  "main": "server.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1.2.20",
+    "angular-route": "1.2.20",
+    "bootstrap": "~3.3.5",
+    "html5shiv": "3.7.2",
+    "respond": "1.4.2",
+    "angular-ui-bootstrap-bower": "0.12.0",
+    "fastclick": "0.6.11"
+  }
+}

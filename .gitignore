@@ -1,0 +1,4 @@
+node_modules
+.nodemonignore
+logger/*
+!logger/logger.js
