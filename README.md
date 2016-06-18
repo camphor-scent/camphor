@@ -4,7 +4,7 @@ Camphor
 Getting Started
 --
 - Install Nodejs
-- fork the reposiotry to your local system
+- fork the repository to your local system
 - Navigate to project folder using Command Line
 - run `npm install`
 - run 'npm install -g bower'
