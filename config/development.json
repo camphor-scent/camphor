@@ -1,7 +1,0 @@
-{
-    "ssl" : {
-        "cert":"./protected/development/ssl/server.crt",
-        "key":"./protected/development/ssl/privkey.pem"
-    },
-    "db":"mongodb://localhost/dbname"
-}
