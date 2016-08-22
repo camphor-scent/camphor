@@ -1,0 +1,48 @@
+{
+  "name": "camphor",
+  "version": "1.0.0",
+  "description": "CamphorScent - Book a Prient",
+  "main": "dist/server.js",
+  "scripts": {
+    "clean": "gulp clean",
+    "compile": "gulp compile",
+    "build": "gulp build",
+    "start": "concurrently --kill-others \"gulp watch\" \"gulp start\"",
+    "postinstall": "gulp installTypings"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camphor-scent/camphor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camphor-scent/camphor/issues"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-beta.17",
+    "es6-promise": "^3.2.1",
+    "es6-shim": "^0.35.1",
+    "express": "^4.13.4",
+    "gulp-concat": "^2.6.0",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.6",
+    "systemjs": "^0.19.29",
+    "zone": "^0.3.4"
+  },
+  "devDependencies": {
+    "concurrently": "^2.1.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^4.3.3",
+    "gulp-typescript": "^2.13.6",
+    "gulp-typings": "^2.0.0",
+    "run-sequence": "^1.2.1",
+    "tslint": "^3.5.0"
+  },
+  "homepage": "https://github.com/camphor-scent/camphor#readme"
+}
