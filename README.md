@@ -1,7 +1,6 @@
 Camphor
 ========
 
-<<<<<<< HEAD
 Code base uses : 
    - Angular2 Typescript, 
    - Gulp for build, compile and install
@@ -34,7 +33,7 @@ Run the command from root directory
 Run the command 
   npm start
 
-http://ocalhost:3000
+http://localhost:3000
 
 
 #Files
@@ -46,4 +45,3 @@ tslint.json - checks for best practices in code
 ##GIT USAGE:
 Please refer to below document for GIT fork steps:
 https://docs.google.com/document/d/1szKGDUHVQlEksSBwkRiuy_alpNH1vtvY92hUclK9DlI/edit
->>>>>>> 1652d777a01114478e2e3fa71ef19e01ce727167
