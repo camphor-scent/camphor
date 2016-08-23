@@ -13,6 +13,7 @@ Fork the repository to your local system
 Navigate to project folder using Command Line
 
 Run the command, to add all dependencies in package.json in node_modules
+
   npm install
 
 # Install typings
