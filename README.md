@@ -25,8 +25,10 @@ Navigate to project folder using Command Line
 
 ~~Navigate to /client and run the command~~
   ~~typings install~~
-#Run the command, to add all dependencies in package.json in node_modules
-  npm install
+#Install Node Modules
+ Run the command, to add all dependencies in package.json in node_modules
+ 
+ npm install
   
 #Run the project
 Run the command from root directory
