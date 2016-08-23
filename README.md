@@ -21,11 +21,13 @@ Run the command, to add all dependencies in package.json in node_modules
 #Install Gulp
   npm install -g gulp
 
-Navigate to /server and run the command
-  typings install
+[PostInstall step in package.json script already has the command to do the same.]
 
-Navigate to /client and run the command
-  typings install
+~~Navigate to /server and run the command~~
+ ~~typings install~~
+
+~~Navigate to /client and run the command~~
+  ~~typings install~~
 
 #Run the project
 Run the command from root directory
