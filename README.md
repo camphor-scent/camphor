@@ -15,6 +15,9 @@ Navigate to project folder using Command Line
 # Install typings
   npm install --global typings
 
+# Install registry
+  typings install registry:dt/node --save --global
+
 #Install Gulp
   npm install -g gulp
 
